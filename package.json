@@ -18,7 +18,7 @@
     "ejs": "^2.7.4",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "handlebars": "^3.0.7",
+    "handlebars": "^4.3.0",
     "mongodb": "^3.4.1",
     "mongoose": "^5.9.5",
     "mysql2": "^2.1.0",
